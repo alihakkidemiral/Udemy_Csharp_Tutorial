@@ -1,0 +1,15 @@
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/bin/Debug/net7.0/002_Read_Readline
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/bin/Debug/net7.0/002_Read_Readline.deps.json
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/bin/Debug/net7.0/002_Read_Readline.runtimeconfig.json
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/bin/Debug/net7.0/002_Read_Readline.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/bin/Debug/net7.0/002_Read_Readline.pdb
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.csproj.AssemblyReference.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.GeneratedMSBuildEditorConfig.editorconfig
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.AssemblyInfoInputs.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.AssemblyInfo.cs
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.csproj.CoreCompileInputs.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/refint/002_Read_Readline.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.pdb
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/002_Read_Readline.genruntimeconfig.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/002_Read_Readline/obj/Debug/net7.0/ref/002_Read_Readline.dll

@@ -1,0 +1,15 @@
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/bin/Debug/net7.0/003_Debugging
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/bin/Debug/net7.0/003_Debugging.deps.json
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/bin/Debug/net7.0/003_Debugging.runtimeconfig.json
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/bin/Debug/net7.0/003_Debugging.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/bin/Debug/net7.0/003_Debugging.pdb
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.csproj.AssemblyReference.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.AssemblyInfoInputs.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.AssemblyInfo.cs
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.csproj.CoreCompileInputs.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/refint/003_Debugging.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.pdb
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/003_Debugging.genruntimeconfig.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/003_Debugging/obj/Debug/net7.0/ref/003_Debugging.dll
