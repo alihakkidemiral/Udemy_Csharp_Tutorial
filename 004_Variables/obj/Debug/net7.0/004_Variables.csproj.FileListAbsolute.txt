@@ -1,0 +1,15 @@
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/bin/Debug/net7.0/004_Variables
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/bin/Debug/net7.0/004_Variables.deps.json
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/bin/Debug/net7.0/004_Variables.runtimeconfig.json
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/bin/Debug/net7.0/004_Variables.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/bin/Debug/net7.0/004_Variables.pdb
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.csproj.AssemblyReference.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.AssemblyInfoInputs.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.AssemblyInfo.cs
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.csproj.CoreCompileInputs.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/refint/004_Variables.dll
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.pdb
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/004_Variables.genruntimeconfig.cache
+/home/alihakki/Documents/Udemy_Csharp_Tutorial/004_Variables/obj/Debug/net7.0/ref/004_Variables.dll
